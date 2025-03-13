@@ -71,9 +71,9 @@ document.getElementById("finish").addEventListener("click", function() {
   const resultDiv = document.getElementById("result");
   resultDiv.innerHTML = `
     <h2>BMS 体、心、魂の健康診断</h2>
-    <p style="font-size:18px;">体：${results.body}　心：${results.mind}　魂：${results.soul}</p>
+     <p style="font-size:18px;">体：${results.body}　心：${results.mind}　魂：${results.soul}</p>
     <a href="https://o09guhda.autosns.app/cp/JLvSX32Zaq?uid=[[uid]]" target="_blank" style="display:inline-block; margin-top:20px;">
-      <img src="https://f.yourl.jp/5a23aca7/" alt="診断結果詳細" style="max-width:100%; height:auto;">
+      <img src="https://imgur.com/a/GSjWpvB" alt="診断結果詳細" style="max-width:100%; height:auto;">
     </a>
   `;
 });
